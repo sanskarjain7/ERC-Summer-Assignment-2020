@@ -17,4 +17,4 @@ b. Set the speed of a DC motor as high, medium, low, or off.
 4. Design a circuit for an automatic LED night light using LDR and LM741,
 which is an op-amp IC.
 
-The links to the Arduino simulation are given in the document ERC-Summer-Assignment
+The links to the Arduino simulation are given in the document ERC-Summer-Assignment.odt
